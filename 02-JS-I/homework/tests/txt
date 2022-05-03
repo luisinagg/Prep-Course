@@ -1,0 +1,5 @@
+variable : forma de almacenar un valor q voy a usar luego
+string : son bloques de texto q se escriben entre ""
+funcion: son objetos q pueden ser invocados, dentro de estas podemos asignar ARGUMENTOS, que luego podemos hacer que la funcion retorne.
+declaraciones if: es un operador de control de flujoy comparacion, verifica si algo en nuestra funcion es true o no verificando la declaracion
+valores booleanos: son tipos de datos, verifican el valor del dato retornando true o false
